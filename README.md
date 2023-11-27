@@ -87,11 +87,7 @@ Same footer for all:-
 ![Screenshot (285)](https://github.com/Bhumikakri/Wynk_Music/assets/128302166/06fb89a2-6bb0-4405-9cac-08ca8ce7f766)
 
 
-## Acknowledgments
 
-- Special thanks to the Priyanshu sir for their mentoring.
-- Akhil sir for their guidance and handholding through this module.
-- Swati ma'am for her continuous doubt support.
 
 ## Contact
 
@@ -100,7 +96,7 @@ If you have any questions or suggestions regarding this project, don't hesitate 
 created by :
 
 - Dhruv Maheshwari: [maheshwari2005dhruv@gmail.com](mailto:maheshwari2005dhruv@gmail.com)
--
+
 
 We're here to assist you and appreciate your feedback!
 
